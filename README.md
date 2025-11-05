@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-LearnMate Backend API
 
 AI Integrated Smart Learning Hub - Backend API built with Node.js, Express, and PostgreSQL.
@@ -190,3 +191,7 @@ ISC
 
 
 
+=======
+# backend-project
+backend project
+>>>>>>> 19113a8b1d234844d3b8d3542c18c8beea28adc7
